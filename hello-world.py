@@ -74,4 +74,7 @@ for i in range(rows, 0, -1):
 print("Hello, World!")
 print("Hello, World!")
 print("Hello, World!")
+
+#escape characters
+print("Hello, \nWorld! \n10")
   
