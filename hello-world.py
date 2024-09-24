@@ -17,3 +17,12 @@ name1 = "Hello"
 name2 = "World"
 formatted_string = "{}, {}! 5".format(name1, name2)
 print(formatted_string)
+
+#loop
+for phrase in ["Hello, World! 6"]:
+  print(phrase)
+
+#loop2
+slogans = ["Hello", "World", "!"]
+for slogan in slogans:
+  print(slogan)
